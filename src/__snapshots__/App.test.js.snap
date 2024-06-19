@@ -4,6 +4,9 @@ exports[`renders a snapshot 1`] = `
 <div
   className="App"
 >
+  <h2>
+    Test
+  </h2>
   <header
     className="App-header"
   >
